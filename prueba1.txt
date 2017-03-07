@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-gsdgdsgsddsggdsgdgsdfffffffffffffffffxcccccccccccccccccccccc
-=======
 nuestra primera prueba cambio1
->>>>>>> mrivera
